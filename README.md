@@ -56,7 +56,7 @@ docker compose up -d --build
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/chart?repos=itsmorninghao/CogniLoop&type=date&legend=top-left&sealed_token=EQ04fkO9Ay_mm1EzXzUetEzsrS3cbKGmCz7MfYo0VmXH6UIX8hvdluGLKBnr-BKMrA1IhqaHob9JAaBKkJPpOsp7FXcDtpys0lHhl4BnhrBWpvr_c440qxLxuZpKi0zyQiUJmHkDul81SZwzbbpPTjcLAHBNiZVXWJsUCG-DWsOoACdvObZNriWQ-FKr)](https://www.star-history.com/?repos=itsmorninghao%2FCogniLoop&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/chart?repos=itsmorninghao/CogniLoop&type=date&legend=top-left&sealed_token=7L6T4xqZVr5WG-euGqRoY6rKS8xyNrp_MlrQZAt6Ww8KXcpJH7T83k7cFZzJJySjflKq8M8wGHQkaUQ2p43ZM5SRhWRX1Ea20UKK2Y0ohg7Hr2gOjHq366cZsaR4l_W1Zv4j6ZkuzLqZuBIDerOp003YjG-4nBgR76-WpVh4dHdG4Y5M6ml4DgvS22MW)](https://www.star-history.com/?repos=itsmorninghao%2FCogniLoop&type=date&legend=top-left)
 
 ## V2版本重构说明
 v2是对v1的完全重构：从"教师-学生"教学管理系统，进化为以学习者为中心的开放社区平台。
